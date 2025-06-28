@@ -15,5 +15,7 @@ public class InventoryServiceApplication {
 	*
 	*
 	* */
+	//this is a custom comment
+
 
 }
